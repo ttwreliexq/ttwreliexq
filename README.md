@@ -1,4 +1,4 @@
-<img width="1719" height="571" alt="image" src="https://s6.ezgif.com/tmp/ezgif-6e78763889cb35df.gif" /><div align="center">
+ /><div align="center">
 <h3><font color="#FF5733">𝘩𝘢𝘭𝘰! 𝘩𝘢𝘭𝘰𝘰𝘰, 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘞𝘦𝘵𝘵𝘭𝘪𝘦𝘳!!◝ ⩊ ◜.ᐟ</font></h3>
 </div> 
 <div align="center">
@@ -12,3 +12,4 @@
 &emsp;&emsp; <img src="https://external-media.spacehey.net/media/sOujGRkYyW1v4MhKNkAHGzXwF-UHfvZThYfC7nayf65Q=/https://64.media.tumblr.com/c4d2feafdb8d78de33942b67fd3cb62b/8174904beae8733d-10/s75x75_c1/1e51f3e716d78b9010140ab4971adb00fc9bfa74.gifv" width=""> &emsp;&emsp;&emsp; <a href="https://guns.lol/usermugiwara">𝔤𝔲𝔫.𝔩𝔬𝔩´꒳`</a> &emsp;&emsp;&emsp; <a href="https://ttwreliexq.straw.page">𝔰𝔱𝔯𝔞𝔴.𝔭𝔞𝔤𝔢ᶻ.ᐟ</a>
  </div>
  <div align="center">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0b0bf9ad-7414-4ced-ad40-8e7a66501421" />
