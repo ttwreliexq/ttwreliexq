@@ -1,5 +1,7 @@
  /><div align="center">
-<img src="https://img.shields.io/github/followers/ttwreliexq?label=followers&style=plastic&color=000000&labelColor=222222"> <h3><font color="#85240F"> &emsp;&emsp;&emsp;   <img src="https://komarev.com/ghpvc/?username=ttwreliexq&label=%2B&color=E3950E&style=plastic">  𝘩𝘢𝘭𝘰! 𝘩𝘢𝘭𝘰𝘰𝘰, 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘞𝘦𝘵𝘵𝘭𝘪𝘦𝘳!!◝ ⩊ ◜.ᐟ</font></h3>
+<img src="https://img.shields.io/github/followers/ttwreliexq?label=followers&style=plastic&color=000000&labelColor=222222"> <h3><font color="#85240F"> &emsp;&emsp;&emsp;   <img src="https://komarev.com/ghpvc/?username=ttwreliexq&label=%2B&color=E3950E&style=plastic"> 
+ /><div align="center"> 
+ 𝘩𝘢𝘭𝘰! 𝘩𝘢𝘭𝘰𝘰𝘰, 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘞𝘦𝘵𝘵𝘭𝘪𝘦𝘳!!◝ ⩊ ◜.ᐟ</font></h3>
 </div> 
 <div align="center">
   𖦹 ׂ 𓈒  ⋆<img src="https://i.pinimg.com/736x/56/4e/e5/564ee58d3fd5635fce14f44bfcc43917.jpg" width="300"> ༉‧₊˚.
