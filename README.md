@@ -18,7 +18,8 @@
  <a href="https://rentry.co/5sapmagt">fyi`</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/msoe5qxa">𝘉𝘠𝘐‹𝟹</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/crkehin8">𝐃𝐍𝐈</a>
   </div>
   <div align="center">
-  <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width="100"> &emsp;&emsp; <img src="https://media.tenor.com/0BYumjrfJGUAAAAi/one-piece-pixel.gif" width="100"> &emsp;&emsp; <img src="https://media.tenor.com/v7Xh_r8MPgIAAAAj/one-piece-pixel.gif" width="100">
+ . ݁₊  . ݁ <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width="100"> &emsp;✦₊  ⧣₊˚&emsp; <img src="https://media.tenor.com/0BYumjrfJGUAAAAi/one-piece-pixel.gif" width="100"> &emsp;─ ✦ ⁺.
+&emsp; <img src="https://media.tenor.com/v7Xh_r8MPgIAAAAj/one-piece-pixel.gif" width="100">
  </div>
    <div align="center">
 𓇼 ⋆.˚ 𓆉<img src="https://i.pinimg.com/736x/23/76/e0/2376e012ff7eaed5d02946c8cbf545b6.jpg" width="300"> 𓆝 𓆡⋆.˚ 𓇼
