@@ -1,4 +1,4 @@
-<img width="1719" height="571" alt="image" src="https://github.com/user-attachments/assets/3680be85-6819-44b7-8347-e13ceb0ddadf" /><div align="center">
+<img width="1719" height="571" alt="image" src="https://s6.ezgif.com/tmp/ezgif-6e78763889cb35df.gif" /><div align="center">
 <h3><font color="#FF5733">𝘩𝘢𝘭𝘰! 𝘩𝘢𝘭𝘰𝘰𝘰, 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘞𝘦𝘵𝘵𝘭𝘪𝘦𝘳!!◝ ⩊ ◜.ᐟ</font></h3>
 </div> 
 <div align="center">
