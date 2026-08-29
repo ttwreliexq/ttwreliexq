@@ -18,8 +18,9 @@
  <a href="https://rentry.co/5sapmagt">fyi`</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/msoe5qxa">𝘉𝘠𝘐‹𝟹</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/crkehin8">𝐃𝐍𝐈</a>
   </div>
   <div align="center">
- . ݁₊  . ݁ <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width="100"> &emsp;✦₊  ⧣₊˚&emsp; <img src="https://media.tenor.com/0BYumjrfJGUAAAAi/one-piece-pixel.gif" width="100"> &emsp;─ ✦ ⁺.
-&emsp; <img src="https://media.tenor.com/v7Xh_r8MPgIAAAAj/one-piece-pixel.gif" width="100">
+ . ݁₊  . ݁ モンキー・Dディー・ルフィ &emsp;✦₊  ⧣₊˚&emsp; ポートガス・Dディー・エース
+ width="100"> &emsp;─ ✦ ⁺.
+&emsp; シャンクス ꩜ ° ( ´ཀ` ) 
   </div>
   <div align="center">
   <h3><font color="pink"> ꒐꒒ꄲ꒦ꏂ꒒꒤ꊰꊰꌦ( ;´ - `;) </font></h3>
