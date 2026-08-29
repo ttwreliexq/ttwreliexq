@@ -3,6 +3,7 @@
 </div> 
 <div align="center">
   𖦹 ׂ 𓈒  ⋆<img src="https://i.pinimg.com/736x/56/4e/e5/564ee58d3fd5635fce14f44bfcc43917.jpg" width="200"> ༉‧₊˚.
+  </div> 
 𖦹 ׂ 𓈒  ⋆<img src="https://media.tenor.com/kGe0A0NBA8kAAAAj/one-piece-pixel.gif" width="100"> ༉‧₊˚.
 </div>
 </p>
