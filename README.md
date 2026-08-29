@@ -17,5 +17,6 @@
  <div align="center">
  <a href="https://rentry.co/5sapmagt">fyi`</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/msoe5qxa">𝘉𝘠𝘐‹𝟹</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/crkehin8">𝐃𝐍𝐈</a>
   </div>
-<img width="734" height="100" alt="image" src="https://github.com/user-attachments/assets/f3cd3871-54ab-4cf1-a789-9921bf3e9c78" />
+   <div align="center">
+<img width="734" height="60" alt="image" src="https://github.com/user-attachments/assets/f3cd3871-54ab-4cf1-a789-9921bf3e9c78" />
 
