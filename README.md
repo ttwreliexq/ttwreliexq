@@ -19,7 +19,7 @@
   </div>
   <div align="center">
  . ݁₊  . ݁ モンキー・Dディー・ルフィ &emsp;✦₊  ⧣₊˚&emsp; ポートガス・Dディー・エース
- width="100"> &emsp;─ ✦ ⁺.
+  &emsp;─ ✦ ⁺.
 &emsp; シャンクス ꩜ ° ( ´ཀ` ) 
   </div>
   <div align="center">
