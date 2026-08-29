@@ -18,7 +18,7 @@
  <a href="https://rentry.co/5sapmagt">fyi`</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/msoe5qxa">𝘉𝘠𝘐‹𝟹</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/crkehin8">𝐃𝐍𝐈</a>
   </div>
   <div align="center">
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/90d97533-62b1-4a23-b427-0eb4b78c7da2" />
+  <img src="https://tenor.com/view/one-piece-pixel-pixel-art-fanart-fanmade-gif-8457815956926558400" width="100"> &emsp;&emsp; <img src="https://tenor.com/view/one-piece-pixel-pixel-art-fanart-fanmade-gif-13814195916272057858" width="100"> &emsp;&emsp; <img src="https://tenor.com/view/one-piece-pixel-pixel-art-fanart-fanmade-gif-14994223249324188773" width="100">
  </div>
    <div align="center">
 𓇼 ⋆.˚ 𓆉<img src="https://i.pinimg.com/736x/23/76/e0/2376e012ff7eaed5d02946c8cbf545b6.jpg" width="300"> 𓆝 𓆡⋆.˚ 𓇼
