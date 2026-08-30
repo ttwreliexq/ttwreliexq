@@ -34,8 +34,7 @@
     <td align="center" width="40%">
 <img width="3025" height="2230" alt="Untitled42_20260830200929" src="https://github.com/user-attachments/assets/e281b5ae-b0d7-4259-8041-5e8549e56c43" />
   <td align="center" width="60%">  
-     <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=22&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=✨+Gõ+chữ+dòng+2+màu+xanh+ở+đây">
-
+  <h3><font color="#87CEFA">𝒲ℯ𝓁𝒸ℴ𝓂ℯ 𝓉ℴ 𝓂𝓎 𝓅𝓇ℴ𝒻𝒾𝓁ℯ</font></h3>
 </div>
 
   </font>
