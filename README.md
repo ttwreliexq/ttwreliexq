@@ -34,7 +34,7 @@
     <td align="center" width="40%">
 <img width="3025" height="2230" alt="Untitled42_20260830200929" src="https://github.com/user-attachments/assets/e281b5ae-b0d7-4259-8041-5e8549e56c43" />
   <td align="center" width="60%">  
-  <h3><font color="#87CEFA">𝒲ℯ𝓁𝒸ℴ𝓂ℯ 𝓉ℴ 𝓂𝓎 𝓅𝓇ℴ𝒻𝒾𝓁ℯ</font></h3>
+  <h3><font color="#87CEFA">THIS IS MY YUMERSHIP!!</font></h3>
 </div>
 
   </font>
