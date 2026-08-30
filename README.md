@@ -29,5 +29,12 @@
  </div>
    <div align="center">
 𓇼 ⋆.˚ 𓆉<img src="https://i.pinimg.com/736x/23/76/e0/2376e012ff7eaed5d02946c8cbf545b6.jpg" width="300"> 𓆝 𓆡⋆.˚ 𓇼
-
- 
+<table border="1">
+  <tr>
+    <td align="center" width="40%">
+      <img src="LINK_ANH_O_DAY" width="100%">
+    </td>
+    <td align="center" width="60%">   
+    </td>
+  </tr>
+</table>
