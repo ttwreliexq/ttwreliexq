@@ -34,7 +34,7 @@
     <td align="center" width="40%">
 <img width="3025" height="2230" alt="Untitled42_20260830200929" src="https://github.com/user-attachments/assets/e281b5ae-b0d7-4259-8041-5e8549e56c43" />
   <td align="center" width="60%">  
-   <img src="https://media.discordapp.net/attachments/857624184989679626/1099782136522866750/IMG_5494.gif"
+<div class="snowflake"><img src="https://media.discordapp.net/attachments/857624184989679626/1099782136522866750/IMG_5494.gif"/></div>
   <h3><font color="#87CEFA">𝒯𝐻𝐼𝒮 𝑀𝒴 𝒴𝒰𝑀𝐸𝑅𝒮𝐻𝐼𝒫𝒫!!(˶>⩊<˶)</font></h3>
 </div>
 <h3><font color="#87CEFA">this artwork was made by me btw!!(˵◝ ⩊  ◜˵マ</font></h3>
