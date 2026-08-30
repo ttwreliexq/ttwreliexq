@@ -32,10 +32,11 @@
 <table border="1">
   <tr>
     <td align="center" width="40%">
-      <img src="https://drive.usercontent.google.com/download?id=12mdfcOhlP26baZ_qjk1FYsls35plSDue&export=download&authuser=2" width="100%">
+      <img src="
+" width="100%">
     </td>
     <td align="center" width="60%">  
-     <p><font color="#AEEEEE">Hi, always feel free to interact with me</font></p>
     </td>
   </tr>
 </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFC0CB&center=true&vCenter=true&width=500&lines=Hi!+Welcome+to+my+profile+👋;I+love+music+and+gaming+🎮;Feel+free+to+connect+with+me!+✨">
