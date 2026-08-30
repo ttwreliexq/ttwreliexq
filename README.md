@@ -32,9 +32,9 @@
 <table border="1">
   <tr>
     <td align="center" width="40%">
-      <img src="alt="image" src="https://github.com/user-attachments/assets/d7eea795-f617-4760-90a6-fe862bda1a65"/>" width="100%">
-    </td>
-    <td align="center" width="60%">  
+<img width="2560" height="1887" alt="image" src="https://github.com/user-attachments/assets/e39bce38-d39e-43e6-a5aa-2a3da90a27bf" />
+
+  <td align="center" width="60%">  
     </td>
   </tr>
 </table>
