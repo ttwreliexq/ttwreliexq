@@ -32,9 +32,10 @@
 <table border="1">
   <tr>
     <td align="center" width="40%">
-      <img src="LINK_ANH_O_DAY" width="100%">
+      <img src="https://drive.usercontent.google.com/download?id=12mdfcOhlP26baZ_qjk1FYsls35plSDue&export=download&authuser=2" width="100%">
     </td>
-    <td align="center" width="60%">   
+    <td align="center" width="60%">  
+     <p><font color="#AEEEEE">Hi, always feel free to interact with me</font></p>
     </td>
   </tr>
 </table>
