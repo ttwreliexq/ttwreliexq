@@ -29,4 +29,16 @@
  </div>
    <div align="center">
 𓇼 ⋆.˚ 𓆉<img src="https://i.pinimg.com/736x/23/76/e0/2376e012ff7eaed5d02946c8cbf545b6.jpg" width="300"> 𓆝 𓆡⋆.˚ 𓇼
-
+<table border="1">
+  <tr>
+   <td width="45%" align="center" valign="top">
+      
+      <p align="left"><sub>credit artist: @username</sub></p>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp5dWdneXptY3R4NDR4NXB4ZjRndnN1Y3E5bW94Nnl2Znd1ZWZpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYH/giphy.gif" width="100%">
+      <br><br>
+       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+      
+    </td>
+      <td width="55%" align="center" valign="middle">
+       <p><font color="#836FFF"><b>MY YUMESHIPP</b></font></p>
+ 
