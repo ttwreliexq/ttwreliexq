@@ -14,7 +14,7 @@
 &emsp;&emsp; <img src="https://external-media.spacehey.net/media/sOujGRkYyW1v4MhKNkAHGzXwF-UHfvZThYfC7nayf65Q=/https://64.media.tumblr.com/c4d2feafdb8d78de33942b67fd3cb62b/8174904beae8733d-10/s75x75_c1/1e51f3e716d78b9010140ab4971adb00fc9bfa74.gifv" width=""> &emsp;&emsp;&emsp; <a href="https://guns.lol/usermugiwara">𝔤𝔲𝔫.𝔩𝔬𝔩´꒳`</a> &emsp;&emsp;&emsp; <a href="https://ttwreliexq.straw.page">𝔰𝔱𝔯𝔞𝔴.𝔭𝔞𝔤𝔢ᶻ.ᐟ</a>
  </div>
  <div align="center">
-<img width="2000" height="2000" alt="image" src="https://i.pinimg.com/736x/61/ed/e9/61ede918e83fcd13c96609219a2d8973.jpg" />
+<img width="1000" height="1000" alt="image" src="https://i.pinimg.com/736x/61/ed/e9/61ede918e83fcd13c96609219a2d8973.jpg" />
 </div>
  <div align="center">
  <a href="https://rentry.co/5sapmagt">fyi`</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/msoe5qxa">𝘉𝘠𝘐‹𝟹</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/crkehin8">𝐃𝐍𝐈</a>
