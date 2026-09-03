@@ -65,3 +65,10 @@
     </tr>
   </table>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6Z3F1cDV5NmZteHh5Zmd5b3d6ZDNodnh4eG13dnlldHlscGZ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kZupgWth7e411bepT3/giphy.gif" width="60px">
+  <br>
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify">
+  </a>
+</div>
