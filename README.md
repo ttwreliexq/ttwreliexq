@@ -54,3 +54,4 @@
     <img src="https://lanyard.cnrad.dev/api/31e6tbc32ftt7j5ohqk7v4gd47eq?si=6117613fee564b13?theme=dark&bg=1a1a1a&showSpotify=true">
   </a>
 </div>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31e6tbc32ftt7j5ohqk7v4gd47eq?si=6117613fee564b13]
