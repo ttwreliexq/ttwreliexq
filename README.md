@@ -49,3 +49,4 @@
   <table border="1">
     <tr>
  </div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6tbc32ftt7j5ohqk7v4gd47eq&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e6tbc32ftt7j5ohqk7v4gd47eq&redirect=true)
