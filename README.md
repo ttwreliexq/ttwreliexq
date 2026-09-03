@@ -49,26 +49,3 @@
   <table border="1">
     <tr>
  </div>
-      <td align="center" width="120px">
-        <a href="https://www.youtube.com/watch?v=7i71O8iImM4&list=RD7i71O8iImM4&start_radio=1">
-          <img src="https://i.pinimg.com/736x/fc/bc/c1/fcbcc1653db3bf96b7ddcdb7ff19db95.jpg" width="100px">
-        </a>
-      </td>  
-        <p><font color="#FFB6C1"><b>🎧 NOW PLAYING...</b></font></p>
-        <a href="https://www.youtube.com/watch?v=7i71O8iImM4&list=RD7i71O8iImM4&start_radio=1">
-          <b><font color="#87CEFA" size="3">Karma</font></b>
-        </a>
-        <br>
-        <font color="#E6E6FA" size="2">Alien Stage / Artist</font>
-        <p><font color="#FFB6C1">──────────⚪─────</font></p> 
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6Z3F1cDV5NmZteHh5Zmd5b3d6ZDNodnh4eG13dnlldHlscGZ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kZupgWth7e411bepT3/giphy.gif" width="60px">
-  <br>
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify">
-  </a>
-</div>
