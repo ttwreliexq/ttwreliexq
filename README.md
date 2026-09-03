@@ -44,3 +44,24 @@
     </td>
   </tr>
 </table>
+<div align="center">
+
+  <table border="1">
+    <tr>
+ </div>
+      <td align="center" width="120px">
+        <a href="LINK_NGHE_NHẠC_YOUTUBE_HOẶC_SPOTIFY">
+          <img src="LINK_ẢNH_CỦA_BẠN" width="100px">
+        </a>
+      </td>  
+        <p><font color="#FFB6C1"><b>🎧 NOW PLAYING...</b></font></p>
+        <a href="LINK_NGHE_NHẠC_YOUTUBE_HOẶC_SPOTIFY">
+          <b><font color="#87CEFA" size="3">Tên Bài Hát Của Bạn</font></b>
+        </a>
+        <br>
+        <font color="#E6E6FA" size="2">Tên Ca Sĩ / Artist</font>
+        <p><font color="#FFB6C1">──────────⚪─────</font></p> 
+      </td>
+    </tr>
+  </table>
+</div>
