@@ -53,5 +53,4 @@
   <a href="https://open.spotify.com">
     <img src="https://lanyard.cnrad.dev/api/31e6tbc32ftt7j5ohqk7v4gd47eq?si=6117613fee564b13?theme=dark&bg=1a1a1a&showSpotify=true">
   </a>
-</div>
-[![Spotify](https://novatide-spotify-readme.vercel.app/api/now-playing?uid=31e6tbc32ftt7j5ohqk7v4gd47eq?si=6117613fee564b13](https://open.spotify.com/user/31e6tbc32ftt7j5ohqk7v4gd47eq?si=6117613fee564b13)
+</div
