@@ -62,3 +62,12 @@
 <font color="#FFD700"> ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ra </font>
   </pre>
 </div>
+<div align="center">
+
+  <font color="#FFD700"><b>▄▄▄▄▄▄</b></font><br>
+  <font color="#FFD700"><b>▄██████████▄</b></font><br>
+  <font color="#CC0000"><b>██████████████</b></font><br>
+  <font color="#FFD700"><b>▄▄████████████████▄▄</b></font><br>
+  <font color="#FFD700"><b>▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀</b></font>
+
+</div>
