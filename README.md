@@ -55,19 +55,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 <div align="center">
-  <pre style=" monospace; font-size: 50px; line-height: 1.0; font-weight: bold;">
-<font color="#FFD700">        ▄▄▄▄▄▄   mu     </font>
-<font color="#FFD700">     ▄██████████▄ gi    </font>
-<font color="#CC0000">    ██████████████ wa    </font>
-<font color="#FFD700"> ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ra </font>
-  </pre>
-</div>
-<div align="center">
-
-  <font color="#FFD700"><b>▄▄▄▄▄▄</b></font><br>
-  <font color="#FFD700"><b>▄██████████▄</b></font><br>
-  <font color="#CC0000"><b>██████████████</b></font><br>
-  <font color="#FFD700"><b>▄▄████████████████▄▄</b></font><br>
-  <font color="#FFD700"><b>▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀</b></font>
+  <font color="#FFD700"><b>▄▄▄▄▄▄ Mu</b></font><br>
+  <font color="#FFD700"><b>▄██████████▄ Gi</b></font><br>
+  <font color="#CC0000"><b>██████████████ Wa </b></font><br>
+  <font color="#FFD700"><b>▄▄████████████████▄▄ Ra </b></font><br>
+  <font color="#FFD700"><b>▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ꉂ`𖦹. </b></font>
 
 </div>
