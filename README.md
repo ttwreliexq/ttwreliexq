@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://img.shields.io/github/followers/ttwreliexq?&label=⧣𝓒ὕᝨiε𝒮&style=flat-square&color=880000&labelColor=d48800">
+ <img src="https://img.shields.io/github/followers/ttwreliexq?&label=⧣𝒮&style=flat-square&color=880000&labelColor=d48800">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=ttwreliexq&label=´ཀ`&color=1890ff&style=flat-square">
 </p>
