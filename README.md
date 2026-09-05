@@ -54,3 +54,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+<div align="center">
+  <pre style="font-family: monospace; font-size: 20px; line-height: 1.0; font-weight: bold;">
+<font color="#FFD700">        ▄▄▄▄▄▄        </font>
+<font color="#FFD700">     ▄██████████▄     </font>
+<font color="#CC0000">    ██████████████    </font>
+<font color="#FFD700"> ▄▄████████████████▄▄ </font>
+<font color="#FFD700">▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀</font>
+  </pre>
+</div>
