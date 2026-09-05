@@ -57,7 +57,6 @@
 <div align="center">
   <font color="#FFD700"><b>▄▄▄▄▄▄ Mu</b></font><br>
   <font color="#FFD700"><b>▄██████████▄ Gi</b></font><br>
-  <font color="#CC0000"><b>██████████████ Wa </b></font><br>
-  <font color="#FFD700"><b>▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ Ra ꉂ`𖦹. </b></font>
+  <font color="#CC0000"><b>██████████████ Wa </b></font><br> <font color="#FFD700"><b>▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ Ra ꉂ`𖦹. </b></font>
 
 </div>
