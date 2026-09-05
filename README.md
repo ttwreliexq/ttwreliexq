@@ -62,3 +62,10 @@
 <font color="#FFD700">▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀</font>
   </pre>
 </div>
+<div align="center">
+$\color{#FFD700}{\text{▄▄▄▄▄▄}}$<br>
+$\color{#FFD700}{\text{▄██████████▄}}$<br>
+$\color{#CC0000}{\text{██████████████}}$<br>
+$\color{#FFD700}{\text{▄▄████████████████▄▄}}$<br>
+$\color{#FFD700}{\text{▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀}}$
+</div>
