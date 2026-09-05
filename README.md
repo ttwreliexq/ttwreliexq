@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ttwreliexq?label=followers&style=flat-square&color=880000&labelColor=d48800">
+  <img src="https://img.shields.io/github/followers/ttwreliexq?label=𝒞𝓊ᝨأꫀ꠹𐔌՞ ܸ.ˬ.ܸ՞𐦯&style=flat-square&color=880000&labelColor=d48800">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ttwreliexq&label=%2B&color=1890ff&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=ttwreliexq&label=´ཀ`&color=1890ff&style=flat-square">
 </p>
  𝘩𝘢𝘭𝘰! 𝘩𝘢𝘭𝘰𝘰𝘰, 𝘵𝘩𝘪𝘴 𝘪𝘴 𝘞𝘦𝘵𝘵𝘭𝘪𝘦𝘳!!◝ ⩊ ◜.ᐟ</font></h3>
 </div> 
