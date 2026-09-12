@@ -32,10 +32,6 @@
    <div align="center">
 𓇼 ⋆.˚ 𓆉<img src="https://i.pinimg.com/736x/23/76/e0/2376e012ff7eaed5d02946c8cbf545b6.jpg" width="300"> 𓆝 𓆡⋆.˚ 𓇼
 <table border="1">
-  <tr>
-    <td align="center" width="40%">
-<img width="3025" height="2230" alt="Untitled42_20260830200929" src="https://github.com/user-attachments/assets/e281b5ae-b0d7-4259-8041-5e8549e56c43" />
-  <td align="center" width="60%">  
  </div>
 <div align="center">
 </div>
