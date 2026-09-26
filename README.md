@@ -19,7 +19,7 @@
 <img width="500" height="500" alt="image" src="https://i.pinimg.com/736x/61/ed/e9/61ede918e83fcd13c96609219a2d8973.jpg" />
 </div>
  <div align="center">
- <a href="https://rentry.co/5sapmagt">fyi`</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/msoe5qxa">𝘉𝘠𝘐‹𝟹</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/crkehin8">𝐃𝐍𝐈</a>
+ <a href="https://rentry.co/5sapmagt">fyi`</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/z9pvia5i">𝘉𝘠𝘐‹𝟹</a> &emsp;&emsp;&emsp; <a href="https://rentry.co/crkehin8">𝐃𝐍𝐈</a>
   </div>
   <div align="center">
  . ݁₊  . ݁ モンキー・Dディー・ルフィ &emsp;✦₊  ⧣₊˚&emsp; ポートガス・Dディー・エース
